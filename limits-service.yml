@@ -1,0 +1,7 @@
+limits:
+  min: 10
+  max: 1000
+
+server:
+  port: 8081
+
