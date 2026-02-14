@@ -1,6 +1,6 @@
-limits:
-  min: 10
-  max: 1000
+limits-service:
+  minimum: 100
+  maximum: 1000
 
 server:
   port: 8081
