@@ -1,0 +1,7 @@
+limits-service:
+  minimum: 4
+  maximum: 40
+
+server:
+  port: 8081
+
